@@ -10,9 +10,9 @@ export const nav:DefaultTheme.NavItem[]=[
         items: [
           {
             text: '笔记',
-            link: ' ../../../../views/tryIndex.md' // 表示docs/views/Travel/index.md
+            link: ' /views/tryIndex.md' // 表示docs/views/Travel/index.md
           },
-          
+
         ]
       },
       {
@@ -20,13 +20,13 @@ export const nav:DefaultTheme.NavItem[]=[
         items: [
           {
             text: '学习uniapp',
-            link: '../../views/column/uniapp/studayUniapp.md' // 表示docs/views/Travel/index.md
+            link: '/views/column/uniapp/studayUniapp.md' // 表示docs/views/Travel/index.md
           },
           {
             text: '二次封装表单',
-            link: '../../views/column/tryFrom.md' // 表示docs/views/Travel/index.md
+            link: '/views/column/tryFrom.md' // 表示docs/views/Travel/index.md
           },
-          
+
         ]
       },
 
@@ -37,10 +37,10 @@ export const sidebar:DefaultTheme.Sidebar=[
             items: [
               {
                 // text: '学习uniapp',
-                link: '../../views/column/uniapp/studayUniapp.md' // 表示docs/views/Travel/index.md
+                link: '/views/column/uniapp/studayUniapp.md' // 表示docs/views/Travel/index.md
               },
-          
+
             ]
           },
-          
+
     ]

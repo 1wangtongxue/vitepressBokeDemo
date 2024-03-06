@@ -14,6 +14,6 @@ git add -A
 git commit -m 'deploy'
 
 # 意思为将master构建后的代码合并到master分支上，然后在master分支上部署~
-git push -f git@github.com:1wangtongxue/vitepressBokeDemo.git master:master
+git push -f git@github.com:1wangtongxue/vitepressBokeDemo.git master:demo
 
 cd -

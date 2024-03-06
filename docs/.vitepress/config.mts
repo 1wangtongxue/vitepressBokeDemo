@@ -3,7 +3,7 @@ import { nav, sidebar } from './relaconf'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "./vitepressBokeDemo/",
+  base: "/vitepressBokeDemo/",
   title: "my-boke-demo",
   description: "A VitePress Site",
   themeConfig: {

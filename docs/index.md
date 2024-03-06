@@ -27,7 +27,4 @@ features:
   
 ---
 
-<script setup>
-import home from '../docs/.vitepress/components/home.vue';
-</script>
-<home />
+
